@@ -138,6 +138,7 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
       </h1>
+      <h2>Dit is een test om te zien hoe ik mijn updates publish.</h2>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time.{" "}
